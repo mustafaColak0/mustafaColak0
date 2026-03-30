@@ -1,8 +1,8 @@
 <div align="center">
   
-  # Merhaba 👋, ben Mustafa.
+  # Merhaba 👋, ben Mustafa ÇOLAK
   
-  **Türkiye'den siber güvenliğe ve yazılıma tutkulu bir geliştirici**
+  **Mersin Üniversitesi Bilgisayar Programcılığı 1. sınıf öğrencisiyim. Yazılım alanında kendimi geliştirerek ülkeme değer katacak projeler üretmeyi hedefliyor; Full-Stack geliştirici olma yolunda emin adımlarla ilerliyorum.**
 
 </div>
 
