@@ -9,7 +9,7 @@
 <br/>
 
 - 🛡️ **Akbank SOC** eğitimi ile siber güvenlik operasyonları üzerinde çalışıyorum.
-- 🤖 **Kodluyoruz** bünyesinde **AI for Future** ve **Cyberstart** programlarına aktif olarak devam ediyorum.
+- 🤖 **Kodluyoruz** bünyesinde **AI for Future** ve **Cyberstart** programlarının temel seviyelerini başarıyla tamamladım, şu an **ileri seviye** eğitimlerine aktif olarak devam ediyorum.
 - 🌱 Şu anda **.NET, Python** ve **Siber Güvenlik (TryHackMe)** konularına odaklanmış durumdayım.
 - 📫 Bana ulaşmak için: [**mustafacolak.dev@gmail.com**](mailto:mustafacolak.dev@gmail.com)
 
@@ -42,10 +42,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap 5" />
 </p>
 
-### 🛡️ Programlar ve İlgi Alanları:
+### 🛡️ Eğitimler, Sertifikalar ve İlgi Alanları:
 <p align="left">
+  <a href="https://www.credly.com/earner/earned/share/7f1fdc89-ba8f-4464-88d6-e143145aaf40" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA_Intro_to_Networks-00ADD8?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Intro to Networks">
+  </a>
   <img src="https://img.shields.io/badge/Akbank_SOC-Red?style=for-the-badge&logo=fortinet&logoColor=white" alt="Akbank SOC">
-  <img src="https://img.shields.io/badge/Kodluyoruz_AI-Blue?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI for Future">
-  <img src="https://img.shields.io/badge/Cyberstart-Green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Cyberstart">
-  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe">
+  <a href="https://verified.sertifier.com/en/verify/90868256930342/?ref=email" target="_blank">
+    <img src="https://img.shields.io/badge/AI_for_Future_Temel-Blue?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI for Future Temel">
+  </a>
+  <a href="https://verified.sertifier.com/en/verify/39842972687115/?ref=email" target="_blank">
+    <img src="https://img.shields.io/badge/Cyberstart_Temel-Green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Cyberstart Temel">
+  </a>
+  <a href="https://tryhackme.com/badges" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe">
+  </a>
 </p>
